@@ -1,0 +1,495 @@
+[
+  {
+    "number": 1,
+    "title": "Sign In",
+    "actor": "Authentication",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-01-light.svg",
+        "alt": "Sign In in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-01-dark.png",
+        "alt": "Sign In in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Verify & Sign In",
+    "actor": "Authentication",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-02-light.png",
+        "alt": "Verify & Sign In in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-02-dark.png",
+        "alt": "Verify & Sign In in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Teacher Dashboard",
+    "actor": "Teacher workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-03-light.png",
+        "alt": "Teacher Dashboard in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-03-dark.png",
+        "alt": "Teacher Dashboard in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Teacher Timetable",
+    "actor": "Teacher workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-04-light.png",
+        "alt": "Teacher Timetable in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-04-dark.png",
+        "alt": "Teacher Timetable in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Take Attendance",
+    "actor": "Teacher workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-05-light.png",
+        "alt": "Take Attendance in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-05-dark.png",
+        "alt": "Take Attendance in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Students",
+    "actor": "Teacher workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-06-light.png",
+        "alt": "Students in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-06-dark.png",
+        "alt": "Students in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Dashboard",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-07-light.png",
+        "alt": "Dashboard in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-07-dark.png",
+        "alt": "Dashboard in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Academic Years & Terms",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-08-light.png",
+        "alt": "Academic Years & Terms in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-08-dark.png",
+        "alt": "Academic Years & Terms in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Add Academic Year",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-09-light.png",
+        "alt": "Add Academic Year in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-09-dark.png",
+        "alt": "Add Academic Year in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Classes & Streams",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-10-light.png",
+        "alt": "Classes & Streams in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-10-dark.png",
+        "alt": "Classes & Streams in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Add Class",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-11-light.png",
+        "alt": "Add Class in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-11-dark.png",
+        "alt": "Add Class in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Subjects",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-12-light.png",
+        "alt": "Subjects in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-12-dark.png",
+        "alt": "Subjects in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "title": "Create Subject",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-13-light.png",
+        "alt": "Create Subject in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-13-dark.png",
+        "alt": "Create Subject in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "title": "Rooms & Labs",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-14-light.png",
+        "alt": "Rooms & Labs in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-14-dark.png",
+        "alt": "Rooms & Labs in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "title": "Create Room",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-15-light.png",
+        "alt": "Create Room in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-15-dark.png",
+        "alt": "Create Room in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "title": "Bell Schedules",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-16-light.png",
+        "alt": "Bell Schedules in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-16-dark.png",
+        "alt": "Bell Schedules in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "title": "Generate Bell Schedule",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-17-light.png",
+        "alt": "Generate Bell Schedule in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-17-dark.png",
+        "alt": "Generate Bell Schedule in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "title": "Staff",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-18-light.png",
+        "alt": "Staff in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-18-dark.png",
+        "alt": "Staff in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "title": "Create Staff",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-19-light.png",
+        "alt": "Create Staff in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-19-dark.png",
+        "alt": "Create Staff in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "title": "Students",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-20-light.png",
+        "alt": "Students in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-20-dark.png",
+        "alt": "Students in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "title": "Create Student",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-21-light.png",
+        "alt": "Create Student in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-21-dark.png",
+        "alt": "Create Student in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "title": "Subject Assignments · Bulk Setup",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-22-light.png",
+        "alt": "Subject Assignments · Bulk Setup in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-22-dark.png",
+        "alt": "Subject Assignments · Bulk Setup in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "title": "Subject Assignments · Stream Selection",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-23-light.png",
+        "alt": "Subject Assignments · Stream Selection in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-23-dark.png",
+        "alt": "Subject Assignments · Stream Selection in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "title": "Subject Assignments · All Assignments",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-24-light.png",
+        "alt": "Subject Assignments · All Assignments in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-24-dark.png",
+        "alt": "Subject Assignments · All Assignments in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "title": "Admin Timetable",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-25-light.png",
+        "alt": "Timetable in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-25-dark.png",
+        "alt": "Timetable in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "title": "Take Attendance",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-26-light.png",
+        "alt": "Take Attendance in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-26-dark.png",
+        "alt": "Take Attendance in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "title": "Student Attendance Report",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-27-light.png",
+        "alt": "Student Attendance Report in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-27-dark.png",
+        "alt": "Student Attendance Report in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "title": "Stream Attendance Report",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-28-light.png",
+        "alt": "Stream Attendance Report in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-28-dark.png",
+        "alt": "Stream Attendance Report in dark mode"
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "title": "Grade Attendance Report",
+    "actor": "Admin workflow",
+    "images": [
+      {
+        "theme": "light",
+        "src": "assets/screen-29-light.png",
+        "alt": "Grade Attendance Report in light mode"
+      },
+      {
+        "theme": "dark",
+        "src": "assets/screen-29-dark.png",
+        "alt": "Grade Attendance Report in dark mode"
+      }
+    ]
+  }
+]
